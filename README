@@ -1,6 +1,6 @@
 NAME
-    Mojolicious::Plugin::Web::Auth::Site::Runkeeper - Runkeeper OAuth Plugin for
-    Mojolicious::Plugin::Web::Auth
+    Mojolicious::Plugin::Web::Auth::Site::Runkeeper - Runkeeper OAuth Plugin
+    for Mojolicious::Plugin::Web::Auth
 
 VERSION
     version 0.000001
@@ -32,8 +32,9 @@ SYNOPSIS
         # default callback endpoint: /auth/runkeeper/callback
 
 DESCRIPTION
-    This module adds Runkeeper <https://runkeeper.com/developer/healthgraph/overview>
-    support to Mojolicious::Plugin::Web::Auth.
+    This module adds Runkeeper
+    <https://runkeeper.com/developer/healthgraph/overview> support to
+    Mojolicious::Plugin::Web::Auth.
 
 AUTHOR
     Olaf Alders <olaf@wundercounter.com>
